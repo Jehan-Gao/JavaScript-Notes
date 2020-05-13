@@ -10,3 +10,4 @@
 - [模块热替换(HMR)](./Notes/5.工程开发/5.构建工具/1.Webpack/3.模块热替换(HMR).md)
 - [Three Shaking](./note/../Notes/5.工程开发/5.构建工具/1.Webpack/4.Tree%20Shaking.md)
 - [生产环境和开发环境的构建](./Notes/5.工程开发/5.构建工具/1.Webpack/5.生产环境和开发环境的构建.md)
+- [代码分离&模块懒加载](./note/../Notes/5.工程开发/5.构建工具/1.Webpack/6.代码分离_懒加载_打包文件分析.md)
