@@ -16,6 +16,6 @@
   - [自定义webpack-dev-server](https://github.com/Jehan-Gao/Blog/issues/15)
 
 
-- 前端需要掌握的数据结构:
+##### | 前端需要掌握的数据结构:
   - [链表](https://github.com/Jehan-Gao/Blog/issues/16)
   
