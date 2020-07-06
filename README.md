@@ -4,6 +4,10 @@
 ##### | 原理探究
   - [手写一个符合Promise/A+规范的Promise](https://github.com/Jehan-Gao/Blog/issues/8)
 
+
+##### | TypeScript
+- [TypeScript基础教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)(from: 掘金)
+
 ##### | Webpack (https://webpack.js.org)
 - webpack3.x
   - [webpack3.x基础配置](https://github.com/Jehan-Gao/Blog/issues/7)
