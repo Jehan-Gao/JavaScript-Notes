@@ -8,6 +8,10 @@
 ##### | TypeScript
 - [TypeScript基础教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)(from: 掘金)
 
+##### | 前端模块化
+- [前端模块化规范(一)](https://github.com/Jehan-Gao/Blog/issues/19)
+- [前端模块化规范(二)](https://github.com/Jehan-Gao/Blog/issues/20)
+
 ##### | Webpack (https://webpack.js.org)
 - webpack3.x
   - [webpack3.x基础配置](https://github.com/Jehan-Gao/Blog/issues/7)
