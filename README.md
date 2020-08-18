@@ -1,8 +1,9 @@
 ## 前端知识体系（持续更新中...）
 > Motto: 所有自由的背后，都是苦行僧般的自律。
 
-##### | 原理探究
+##### | 手写系列
   - [手写一个符合Promise/A+规范的Promise](https://github.com/Jehan-Gao/Blog/issues/8)
+  - [手动实现函数的call和apply](https://github.com/Jehan-Gao/Blog/issues/21)
 
 
 ##### | TypeScript
