@@ -28,6 +28,7 @@
 
 #### |《浏览器工作原理与实践》笔记
   - [从输入URL到页面展示，中间发生了什么？](https://github.com/Jehan-Gao/Blog/issues/22)
+  - v8引擎的垃圾回收机制（https://www.yuque.com/wangpingan/cute-frontend/hk2q5h， https://www.yuque.com/shuai-u4smx/rl2crm/fvhbin）
 
 
 #### | 前端需要掌握的数据结构:
